@@ -1,0 +1,30 @@
+name: Product feedback
+description: Share feedback without client or private data.
+title: '[Feedback] '
+body:
+  - type: markdown
+    attributes:
+      value: 'This is public. Do not include client names, contracts, email addresses, or other private information.'
+  - type: textarea
+    id: task
+    attributes:
+      label: What were you trying to do?
+      description: Use a fictional project example.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What happened, or what would make this useful?
+    validations:
+      required: true
+  - type: dropdown
+    id: value
+    attributes:
+      label: Which improvement matters most?
+      options:
+        - Clearer change-order wording
+        - Branded output
+        - Sharing with clients
+        - Cloud backup and multi-device use
+        - Something else
