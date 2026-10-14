@@ -14,6 +14,14 @@ A launch preview for independent Webflow and WordPress designers who need to pri
 
 Project data stays in your browser. There is no cloud synchronization, email sending, electronic signature, payment collection, or proof of client approval. Get written client agreement through your own process before starting additional work.
 
+## Free practical resources
+
+- [Is this a revision or a new request?](resources/revision-or-new-request.md) — compare the request with the agreed deliverable.
+- [A reply to extra client requests](resources/reply-to-extra-client-requests.md) — scripts for paid additions, swaps, deferrals and courtesies.
+- [A one-page website change-order template](resources/website-change-order-template.md) — capture the work, fee, timing and decision.
+
+These are communication aids with fictional examples. They are not legal advice or promises of payment or enforceability.
+
 ## Feedback
 
 [Report a problem or request a feature](https://github.com/iker592/scopeledger/issues/new/choose). Please use fictional examples; do not post client names, messages, contracts, payment details, or other private information in public issues.
